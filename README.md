@@ -16,7 +16,7 @@ OpenClaw BOT is an architecture for running AI-powered Telegram bots on a fleet 
 
 Each bot operates independently on an Ubuntu VM. Data persists to OneDrive via `rclone` sync. The bot communicates with users through Telegram and routes tasks to Gemini or Claude models based on complexity.
 
-![Architecture Diagram](./assets/architecture.png)
+![Architecture Diagram](./architecture.png)
 
 ## Documentation
 
